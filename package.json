@@ -1,0 +1,38 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "connect-history-api-fallback": "^1.6.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "http-proxy-middleware": "^1.0.5",
+    "jsonwebtoken": "^8.5.1",
+    "mock": "^0.1.1",
+    "mockjs": "^1.1.0",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "path-to-regexp": "^6.1.0",
+    "sequelize": "^6.3.4",
+    "session": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxl666666/Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sxl666666/Blog/issues"
+  },
+  "homepage": "https://github.com/sxl666666/Blog#readme"
+}
